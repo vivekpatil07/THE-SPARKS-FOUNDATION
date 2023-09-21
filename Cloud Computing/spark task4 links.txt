@@ -1,0 +1,13 @@
+https://roshan-bucket21.s3.ap-south-1.amazonaws.com/17-37-29.mp4?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRzBFAiBD4ihqj4oxxrDIciW%2F9tE3%2BAU%2B%2Fog48HhMSy7fBa3uXAIhAKtIa%2BZ9o4org5jnObR3p3BMlYyFXE%2FYyqBG%2F4uV2IWAKu0CCO%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMOTIxMzUwMTIyMzIzIgydVqDcn4yCWMPnLIoqwQL79XbRAH4nVSsgDvdxKu7fT4Jz%2BnwPQ0vIt5jGfXcQHCDCWNE4opr7zWwGwXmcPPN8XxcSXIuNbRVRLaut8%2BtPovhiSGZhWVL7LuoCLT5L1vHokweEAafw9P83apvNvzAt%2BX0FgV%2BxfMASTaL14CLX7dqDSrUWU9kA2S9p4hjuxj%2Fy%2FKU8AUd%2BsaDFvUN1YEcKFnYh9OMQM6WAUlpbewQHp60oGhGlVC5F0oxsnUus7neUZBYUxo7zwXbakFlaNWHZwMiCXhb2ZURXrKeF9TJSVdhwZpBHGFGjd6lPoCNm3UDYs99UJ3Z2lFG6b3lZD5akp7WD6rp7yaKH4WYtc01Nz%2FAEyUoIvQF6vr1NrZ00656GIGBo15NrGp1tmkPttXFe2OboaJwaDWJ5mGWr9FB9maJGTlJfsNqAMYpo9XdarQww%2FY2JngY6swKNYCGwl3vZKxmwlC65eRk0E%2FHhVvIUe1jabXK3F5ffHUtmJzz3jsX%2BhzeUzgUIMjpDmRlqFCaI3CBmq5zNs2lLJ9MYRmPvrkScJZgUWQ8et8czRt4jMrm%2FPCfGsNn48Oefnxtu6jiMvkjx59U0D45DfVscN24U5o4l9q4hx%2F43od22%2FwnlEc5yxMb6x1vj3qCVXvumDJIynNVimhhBhEU6cBtiusozbPSmj%2F8eMuFaDNC2iSR9Zu9hUqFtd81gL6IlkK%2Ffn1iAWioRAPvgm1VGQIJKprPK5StV7CYWwp6VP5%2BUeX8w72hy6JplKtQ3sYcK9llsYUxBBgC3SAEAu3aCu%2BRzt5XRjHKXFS6J%2FqTJb3tNrz2x73zeCtj6LDZ38z35boVB5cLbYr0iC6eT2U9GGp1P&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230114T140245Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIA5NBF7FNJQQ5CCS74%2F20230114%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=83c3954539ff131bc253649bd7218d878b8bad0a0a45a78141b34f0e7982153d
+
+S3 Bucket Destination Link: s3://roshan-bucket21
+
+EC2 Website: 13.233.136.4
+
+Youtube Link: https://youtu.be/DcLsaBbok1k
+
+ 
+
+Documentation regarding setup & Essentials of the AWS EC2
+https://drive.google.com/file/d/1QPGnMcEBFgrX5OMHz9ztxqBbkBTczBv8/view?usp=sharing
+
